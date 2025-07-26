@@ -1,1 +1,1 @@
-console.log("I Love Github");
+console.log("I Love JavaScript");
